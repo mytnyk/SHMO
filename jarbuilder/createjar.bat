@@ -1,0 +1,1 @@
+jar cfm shmo.jar manifest.txt *.class res
